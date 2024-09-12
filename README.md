@@ -1,6 +1,3 @@
-当然，我可以帮你草拟一个基本的`README.md`文件内容，这个文件是GitHub仓库中非常重要的部分，它向访问者介绍你的项目、使用方式、安装步骤、贡献指南等信息。以下是一个针对你的“Code Library”项目的示例`README.md`：
-
-```markdown
 # BrassWrench's Code Library
 
 ## 🎉 欢迎来到 BrassWrench 的代码库 🎉
@@ -19,7 +16,7 @@
 
 1. **克隆仓库**：首先，你需要将本仓库克隆到你的本地机器上。
    ```bash
-   git clone https://github.com/BrassWrench/your-code-library-repo-name.git
+   git clone https://github.com/BrassWrench/Code-Library.git
    ```
    请将`your-code-library-repo-name`替换为你的实际仓库名。
 
@@ -51,7 +48,3 @@
 - 添加更多算法的实现。
 - 改进现有代码的性能和可读性。
 - 增加更多编程语言的算法实现。
-
----
-
-请记得将`your-code-library-repo-name`替换为你实际的GitHub仓库名，并根据需要调整其他部分的内容。希望这个`README.md`能对你的项目有所帮助！
