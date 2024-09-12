@@ -18,7 +18,6 @@
    ```bash
    git clone https://github.com/BrassWrench/Code-Library.git
    ```
-   请将`your-code-library-repo-name`替换为你的实际仓库名。
 
 2. **查看代码**：使用你喜欢的文本编辑器或IDE打开克隆下来的项目，浏览或运行代码。
 
